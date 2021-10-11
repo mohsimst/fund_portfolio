@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fund_portfolio/static/css/main.6273f6fe.chunk.css",
+    "main.js": "/fund_portfolio/static/js/main.f701844c.chunk.js",
+    "main.js.map": "/fund_portfolio/static/js/main.f701844c.chunk.js.map",
+    "runtime-main.js": "/fund_portfolio/static/js/runtime-main.bf563cd7.js",
+    "runtime-main.js.map": "/fund_portfolio/static/js/runtime-main.bf563cd7.js.map",
+    "static/js/2.09c3caad.chunk.js": "/fund_portfolio/static/js/2.09c3caad.chunk.js",
+    "static/js/2.09c3caad.chunk.js.map": "/fund_portfolio/static/js/2.09c3caad.chunk.js.map",
+    "static/js/3.239918f6.chunk.js": "/fund_portfolio/static/js/3.239918f6.chunk.js",
+    "static/js/3.239918f6.chunk.js.map": "/fund_portfolio/static/js/3.239918f6.chunk.js.map",
+    "index.html": "/fund_portfolio/index.html",
+    "static/css/main.6273f6fe.chunk.css.map": "/fund_portfolio/static/css/main.6273f6fe.chunk.css.map",
+    "static/js/2.09c3caad.chunk.js.LICENSE.txt": "/fund_portfolio/static/js/2.09c3caad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf563cd7.js",
+    "static/js/2.09c3caad.chunk.js",
+    "static/css/main.6273f6fe.chunk.css",
+    "static/js/main.f701844c.chunk.js"
+  ]
+}

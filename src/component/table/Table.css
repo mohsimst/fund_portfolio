@@ -1,0 +1,24 @@
+.table {
+  border-collapse: collapse;
+  /* table-layout: auto; */
+  width: 60vw;
+  /* table-layout: fixed; */
+  font-family: serif;
+}
+.table th {
+  text-align: left;
+  vertical-align: bottom;
+}
+.table td {
+  text-align: right;
+}
+.table td:first-child {
+  text-align: left;
+}
+.table th,
+td {
+  padding: 3px;
+  border-spacing: 0;
+  vertical-align: bottom;
+  border: 2px solid #ddd;
+}

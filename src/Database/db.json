@@ -1,0 +1,64 @@
+{
+    "shares": [
+        {
+            "scrip": "AADR",
+            "quantity": "430",
+            "price": "50.30",
+            "avg_cost": "41.75",
+            "invested_amt": "17,952.07",
+            "per_portfolio_value": "22.06",
+            "P&L" :"3,676.93",
+            "per_return": "20.48"
+        },
+        {
+            "scrip": "MFEM",
+            "quantity": "210",
+            "price": "23.20",
+            "avg_cost": "22.50",
+            "invested_amt": "4,725.84",
+            "per_portfolio_value": "5.81",
+            "P&L" :"146.16",
+            "per_return": "3.09"
+        },
+        {
+            "scrip": "JPEM",
+            "quantity": "328",
+            "price": "52.50",
+            "avg_cost": "56.70",
+            "invested_amt": "18,597.60",
+            "per_portfolio_value": "22.86",
+            "P&L" :"1,377.60",
+            "per_return": "-7.41"
+        },
+        {
+            "scrip": "KEMQ",
+            "quantity": "801",
+            "price": "20.40",
+            "avg_cost": "22.24",
+            "invested_amt": "17,811.04",
+            "per_portfolio_value": "21.89",
+            "P&L" :"1,470.64",
+            "per_return": "-8.26"
+        },
+        {
+            "scrip": "KLDW",
+            "quantity": "523",
+            "price": "32.90",
+            "avg_cost": "26.32",
+            "invested_amt": "13,765.36",
+            "per_portfolio_value": "16.92",
+            "P&L" :"3,441.34",
+            "per_return": "25.00"
+        },
+        {
+            "scrip": "KOIN",
+            "quantity": "335",
+            "price": "25.40",
+            "avg_cost": "25.40",
+            "invested_amt": "8,509.00",
+            "per_portfolio_value": "10.46",
+            "P&L" :"-",
+            "per_return": "0.00"
+        }
+    ]
+}

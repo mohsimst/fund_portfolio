@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+deploy Link on Netlify:  https://eager-bassi-616ca4.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
